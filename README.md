@@ -29,3 +29,11 @@ I followed the tutorial and made some modifications to enhance the project.
 💙 Awesome Landing Page
 🌐 Deployment
 🚀 And Many More Cool Features
+
+## 📸 Screenshots  
+
+### Homepage  
+![Homepage Screenshot](screenshots/homepage.png)  
+
+### Movie Details Page  
+![Details Screenshot](screenshots/details.png)  
