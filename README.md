@@ -34,3 +34,23 @@ I followed the tutorial and made some modifications to enhance the project.
 
 ### Homepage  
 ![Homepage Screenshot](screenshots/homepage.png)  
+
+### Homescreen  
+![Homescreen Screenshot](screenshots/homescreen.png)  
+
+### Login Page 
+![Loginpage Screenshot](screenshots/login.png)  
+
+### Signup Page  
+![Signuppage Screenshot](screenshots/signup.png)  
+
+### Search Page  
+![Searchpage Screenshot](screenshots/searchpage.png)  
+
+### Search history Page 
+![Searchhistorypage Screenshot](screenshots/searchhistory.png)
+
+### Watch Page  
+![Watchpage Screenshot](screenshots/watchpage.png)  
+![Watchpage Screenshot](screenshots/watchpage1.png)  
+
