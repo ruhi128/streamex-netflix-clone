@@ -35,5 +35,4 @@ I followed the tutorial and made some modifications to enhance the project.
 ### Homepage  
 ![Homepage Screenshot](screenshots/homepage.png)  
 
-### Movie Details Page  
-![Details Screenshot](screenshots/details.png)  
+
